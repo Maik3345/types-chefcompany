@@ -1,0 +1,25 @@
+{
+  "name": "types-chefcompany",
+  "version": "1.0.2",
+  "description": "Typing of chefcompany typescript projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maik3345/types-chefcompany.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Types",
+    "chefcompany",
+    "vtex"
+  ],
+  "author": "chef company",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maik3345/types-chefcompany/issues"
+  },
+  "homepage": "https://github.com/Maik3345/types-chefcompany#readme",
+  "dependencies": {}
+}
