@@ -1,6 +1,6 @@
 {
   "name": "types-chefcompany",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Typing of chefcompany typescript projects",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
