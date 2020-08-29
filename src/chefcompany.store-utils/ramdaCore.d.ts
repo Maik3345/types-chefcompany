@@ -1,2 +1,6 @@
-import * as ramda from 'ramda';
-export default ramda;
+import { pathOr, path } from 'ramda';
+declare const _default: {
+    pathOr: typeof pathOr;
+    path: typeof path;
+};
+export default _default;

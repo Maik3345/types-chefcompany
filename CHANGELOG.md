@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.5] - 2020-08-28
+
+### Update
+
+- Update types for chefcompany.store-utils
+- Added types for chefcompany.product-details
+- Added types for chefcompany.footer
+- Added types for chefcompany.category-menu
+- Update types for chefcompany.home
+
 ## [1.0.4] - 2020-08-18
 
 ### Update

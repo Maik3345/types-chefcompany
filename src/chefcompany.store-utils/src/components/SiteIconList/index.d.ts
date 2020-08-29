@@ -2,6 +2,8 @@
 import { IconType } from '../VtexIcon';
 interface SiteIconProps {
     icons: IconType[];
+    customIcons?: string[];
+    useOnlyCustomIcons: boolean;
 }
 declare const SiteIconList: {
     (props: SiteIconProps): JSX.Element;

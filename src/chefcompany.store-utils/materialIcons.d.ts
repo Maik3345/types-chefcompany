@@ -1,2 +1,4 @@
-import * as Icons from '@material-ui/icons';
-export default Icons;
+declare const _default: {
+    MenuIcon: import("@material-ui/core/OverridableComponent").OverridableComponent<import("@material-ui/core").SvgIconTypeMap<{}, "svg">>;
+};
+export default _default;

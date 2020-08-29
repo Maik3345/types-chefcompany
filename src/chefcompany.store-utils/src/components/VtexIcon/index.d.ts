@@ -5,6 +5,9 @@ export interface IconType {
     isActive?: boolean;
     activeClassName?: string;
     mutedClassName?: string;
+    color?: string;
+    blockClass?: string;
+    classesContainer?: string;
 }
 declare const VtexIcon: {
     (props: IconType): JSX.Element;
@@ -18,6 +21,10 @@ declare const VtexIcon: {
                 enum: string[];
             };
             size: {
+                title: string;
+                type: string;
+            };
+            color: {
                 title: string;
                 type: string;
             };
